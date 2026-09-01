@@ -23,3 +23,5 @@ Projeto desenvolvido durante meus estudos de Python para praticar lógica de pro
 
 ```bash
 git clone URL_DO_SEU_REPOSITORIO
+cd nome-do-projeto
+python caixa.py

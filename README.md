@@ -22,6 +22,6 @@ Projeto desenvolvido durante meus estudos de Python para praticar lógica de pro
 ### 2. Clone o repositório
 
 ```bash
-git clone URL_DO_SEU_REPOSITORIO
-cd nome-do-projeto
+git clone https://github.com/FelipeSlaik/caixa-de-mercado.git
+cd caixa-de-mercado
 python caixa.py
